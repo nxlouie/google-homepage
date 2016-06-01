@@ -1,0 +1,38 @@
+#header{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:right;
+}
+
+.head{
+	display:inline;
+}
+
+#logo{
+	position:absolute;
+	top: 182px;
+	left: 361px;
+}
+
+#search_bar{
+	position:absolute;
+	top:320px;
+	left: 361px;
+}
+
+#buttons{
+	position:absolute;
+	top:400px;
+	left:370px;
+}
+
+#footer{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:right;
+
+	position:absolute;
+	bottom:0;
+}
